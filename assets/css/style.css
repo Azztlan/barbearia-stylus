@@ -1,0 +1,9 @@
+body {
+background: url(./img/back.jpg);
+}
+
+div {
+    width: 900px;
+    border: 1px solid red;
+    margin: 50px auto;
+}
